@@ -2,7 +2,9 @@
 
 PrepNest is a comprehensive interview preparation platform designed to help tech professionals excel in their dream roles through personalized practice and expert guidance.
 
-[Insert Screenshot of Home Page]
+
+<img width="1470" alt="Screenshot 2025-02-04 at 1 30 26 PM" src="https://github.com/user-attachments/assets/3a1286f3-08e9-489c-ac76-e483791f78fb" />
+
 
 ## Features
 
@@ -12,8 +14,9 @@ PrepNest is a comprehensive interview preparation platform designed to help tech
 - Mobile-friendly hamburger menu with slide animations
 - Profile dropdown with smooth fade effects
 - Gradient animations on hover states
+<img width="1470" alt="Screenshot 2025-02-04 at 1 30 26 PM" src="https://github.com/user-attachments/assets/0ec52e8a-40da-4397-b631-5f46dfe72a03" />
 
-[Insert Screenshot of Navigation]
+
 
 ### 2. Home Page
 - Hero section with gradient background
@@ -21,8 +24,13 @@ PrepNest is a comprehensive interview preparation platform designed to help tech
 - Feature highlights with icon animations
 - Testimonials section with smooth transitions
 - Call-to-action buttons with hover effects
+  <img width="1470" alt="Screenshot 2025-02-04 at 1 31 19 PM" src="https://github.com/user-attachments/assets/f8391e1a-777c-489d-8cfa-69d1e1fd2316" />
 
-[Insert Screenshot of Role Cards]
+
+
+<img width="1470" alt="Screenshot 2025-02-04 at 1 31 31 PM" src="https://github.com/user-attachments/assets/1c3fe3fa-0455-4dcf-a81d-b6530c63c543" />
+
+
 
 ### 3. Practice Section
 - Interactive MCQ practice module
@@ -30,16 +38,17 @@ PrepNest is a comprehensive interview preparation platform designed to help tech
 - AI-powered mock interviews
 - Progress tracking and analytics
 - Animated feedback indicators
+<img width="1470" alt="Screenshot 2025-02-04 at 1 31 26 PM" src="https://github.com/user-attachments/assets/2ec25996-5a1f-4e81-91c0-04395cce37e5" />
 
-[Insert Screenshot of Practice Section]
 
 ### 4. Role-Specific Pages
 - Software Developer track
 - UI/UX Designer path
 - Python Developer specialization
 - Each with custom animations and transitions
+<img width="1470" alt="Screenshot 2025-02-04 at 1 31 31 PM" src="https://github.com/user-attachments/assets/3447e222-3d66-4464-a3b9-576577d66966" />
 
-[Insert Screenshot of Role Pages]
+
 
 ### 5. Interview Experiences
 - Community-shared experiences
@@ -47,7 +56,8 @@ PrepNest is a comprehensive interview preparation platform designed to help tech
 - Animated interaction elements
 - Filter and search functionality
 
-[Insert Screenshot of Experiences Page]
+
+<img width="1470" alt="Screenshot 2025-02-04 at 1 31 37 PM" src="https://github.com/user-attachments/assets/8f044a74-badd-4908-8178-8c67370b8642" />
 
 ### 6. Contact Page
 - Interactive contact form
@@ -55,7 +65,8 @@ PrepNest is a comprehensive interview preparation platform designed to help tech
 - Animated form submissions
 - Real-time validation
 
-[Insert Screenshot of Contact Page]
+
+<img width="1470" alt="Screenshot 2025-02-04 at 1 31 45 PM" src="https://github.com/user-attachments/assets/4765c49f-ed53-4a7b-bd95-daa1f5a8f20b" />
 
 ### 7. Animations & Effects
 - Page transition animations
@@ -189,4 +200,3 @@ src/
 
 
 
-[Leave space for screenshots]
